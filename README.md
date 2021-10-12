@@ -1,8 +1,8 @@
-### Hi [Magamex][website] here 👋
+### Hi [Matias][website] here 👋
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/magamex_ma?color=%231DA1F2&label=magamex_ma&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/magamex_ma)
 
-
-**Magamex/magamex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Developer 
 
 Here are some ideas to get you started:
 
