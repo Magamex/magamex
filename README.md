@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on "Grupo Digital".
 - 🌱 I’m currently learning more about Node.
 - 📫 How to reach me: Linkedin.
-- ⚡ Fun fact: I like to play video games and do small projects for entertainment.
+- ⚡ Fun fact: I like to play video games, make small projects to entertain myself and create post on taringa to teach.
 
 
 [website]: https://magamex.github.io/
