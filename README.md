@@ -1,7 +1,8 @@
 ## Hi [Matias][website] here 👋
-<br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/magamex_ma?color=%231DA1F2&label=magamex_ma&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/magamex_ma)
+[![Twitter Follow](https://img.shields.io/twitter/follow/magamex_ma?color=%231DA1F2&label=magamex_ma&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/magamex_ma/)
+[![LinkedIn](https://shields.io/badge/LinkedIn-matias%20angeluk-blue?logo=LinkedIn&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/matiasangeluk/)
+
 <br>
 
 ### My name is Matias and I live in Argentina. I'm a Backend Developer, I like linux and games.
