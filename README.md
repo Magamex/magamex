@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 Last Post
-``` 
-            En Construccion
-```
+
+`En Construccion`
+<br>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
