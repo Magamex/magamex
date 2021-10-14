@@ -1,4 +1,4 @@
-## Hi [Matias][website] here 👋
+## Hi there, I'm [Matias][website] [<img alt="HTML5" width="30px" src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b761144ae73932b5461c0fe7398620ace42ee6750bd32&rid=giphy.gif&ct=s" />][website]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/magamex_ma?color=%231DA1F2&label=magamex_ma&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/magamex_ma/)
 [![LinkedIn](https://shields.io/badge/LinkedIn-matias%20angeluk-blue?logo=LinkedIn&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/matiasangeluk/)
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about Node.
 - 📫 How to reach me: Linkedin.
 - ⚡ Fun fact: I like to play video games, make small projects to entertain myself and create post on taringa to teach.
+[<img alt="HTML5" width="30px" src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b76114e027982138991351b2d35b7b4c527fcd7ddb357&rid=giphy.gif&ct=s" />][website]
 
 ---
 
