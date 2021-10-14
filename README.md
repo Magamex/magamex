@@ -6,7 +6,6 @@
 [![Header](https://thumbs.gfycat.com/EasyHardEwe-size_restricted.gif)][website]
 
 ### My name is Matias and I live in Argentina. I'm a Backend Developer, I like linux and games.
-<br>
 
 Here are some ideas to get you started:
 
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 💻 Last Post
 
-`En Construccion`
+`In construction`
 <br>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
