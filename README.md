@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 ### 💻 Last Post
 
-<br>
 <!-- BLOG-POST-LIST:START -->
 - [¿Como instalar el navegador Vivaldi en Debian?](https://www.taringa.net/+linux/como-instalar-el-navegador-vivaldi-en-debian_4wurer)
 - [Cree un bot y te lo muestro - Skerebot V0.0.1](https://www.taringa.net/+offtopic/cree-un-bot-y-te-lo-muestro-skerebot-v0-0-1_4vx0cx)
