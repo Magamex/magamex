@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### 💻 Last Post
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Como cambiar la dirección MAC de tu equipo?](https://www.taringa.net/+linux/como-cambiar-la-direccion-mac-de-tu-equipo_4x6tww)
 - [¿Como instalar el navegador Vivaldi en Debian?](https://www.taringa.net/+linux/como-instalar-el-navegador-vivaldi-en-debian_4wurer)
 - [Cree un bot y te lo muestro - Skerebot V0.0.1](https://www.taringa.net/+offtopic/cree-un-bot-y-te-lo-muestro-skerebot-v0-0-1_4vx0cx)
 - [Consulta - WebSocket utilizando la API taringa con Nodejs](https://www.taringa.net/+offtopic/consulta-websocket-utilizando-la-api-taringa-con-nodejs_4sj92m)
 - [La metodología de BEM  #CSS](https://www.taringa.net/+info/la-metodologia-de-bem-css_4sh3ck)
-- [Comandos Basicos de Bash](https://www.taringa.net/+linux/comandos-basicos-de-bash_4sefh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
