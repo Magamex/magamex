@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about Node.
 - 📫 How to reach me: Linkedin.
 - ⚡ Fun fact: I like to play video games, make small projects to entertain myself and create post on taringa to teach.
-[<img alt="HTML5" width="30px" src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b76114e027982138991351b2d35b7b4c527fcd7ddb357&rid=giphy.gif&ct=s" />][website]
+
+[<img alt="HTML5" width="100px" src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b76114e027982138991351b2d35b7b4c527fcd7ddb357&rid=giphy.gif&ct=s" />][website]
 
 ---
 
@@ -42,5 +43,13 @@ Here are some ideas to get you started:
 - [La metodología de BEM  #CSS](https://www.taringa.net/+info/la-metodologia-de-bem-css_4sh3ck)
 - [Comandos Basicos de Bash](https://www.taringa.net/+linux/comandos-basicos-de-bash_4sefh3)
 <!-- BLOG-POST-LIST:END -->
+
+---
+### 🎧 Spotify Playing
+
+[![Spotify](https://spotify-play-readme.vercel.app/api/spotify)](https://open.spotify.com/user/111545794)
+
+
+
 
 [website]: https://magamex.github.io/
