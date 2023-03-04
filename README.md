@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Grupo Digital".
+- 🔭 I’m currently working on "Geopagos".
 - 🌱 I’m currently learning more about Node and Angular.
 - 📫 How to reach me: Linkedin.
 - ⚡ Fun fact: I like to play video games, make small projects to entertain myself and create post on taringa to teach.
