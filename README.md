@@ -5,7 +5,7 @@
 
 [![Header](https://thumbs.gfycat.com/EasyHardEwe-size_restricted.gif)][website]
 
-### My name is Matias and I live in Argentina. I'm a Full Stack Developer, I like linux and games.
+### My name is Matias and I live in Argentina. I'm a Backend Developer, I like linux and games.
 
 Here are some ideas to get you started:
 
